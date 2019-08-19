@@ -1,0 +1,5 @@
+# ignores modules tracking
+node_modules
+
+# Environment variable
+.env
